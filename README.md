@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Will! 👋
 
-##### Desenvolvedor Web, Técnico em Informática e bacharelando em Sistemas de Informação na FIAP
+##### Desenvolvedor Web, Técnico em Informática e bacharel em Sistemas de Informação na FIAP
 
 ##
 
