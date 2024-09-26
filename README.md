@@ -45,6 +45,5 @@
 - 🌱 Estudando Vue.js e Laravel
 - 👯 Procurando aprender e aplicar as melhores práticas do mercado
 - 📫 Contate-me no email - willian1948@hotmail.com
-- ⚡ Fun fact: Escrevi minha primeira linha de código aos 12 anos em um curso de jogos, e desisti pouco tempo depois... ou não...
 
 ##
